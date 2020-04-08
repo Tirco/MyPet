@@ -1,3 +1,5 @@
+This version is modified... The below information is for the main version:
+
 [![MyPet on BukkitDev][Logo]][Homepage]
 ## MyPet - The extensive pet plugin
 MyPet is a highly customizable pet plugin with a lot of features.<br />
